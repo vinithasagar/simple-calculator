@@ -1,0 +1,33 @@
+#para{
+    height: 30px;
+    width: 100px;
+    border: solid #101529;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 8px;
+}
+#first_num{
+   height: 20px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+#second_num{
+    height: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#v{
+    height: 250px;
+    width: 400px;
+    border: solid black;
+    border-radius: 5px;
+    float:right;
+    margin-right: 350px;
+    margin-top: 120px;
+    background-color: lavender;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+#btn{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
